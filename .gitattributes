@@ -1,2 +1,4 @@
 *.h linguist-language=java
 *.m linguist-language=java
+*.cpp linguist-language=java
+*.mk linguist-language=java
