@@ -2,3 +2,7 @@
 *.m linguist-language=java
 *.cpp linguist-language=java
 *.mk linguist-language=java
+*.html linguist-language=java
+*.a linguist-language=java
+*.so linguist-language=java
+*.xml linguist-language=java
